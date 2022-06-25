@@ -1,0 +1,11 @@
+.nav-item{
+    font-family: Arial, 'Times New Roman';
+    padding: 32px;
+}
+.nav-item:hover{
+    background-color: gray;
+    border-radius: 16px;
+}
+.navbar{
+    border: rgba(165, 42, 42, 0.562) 6px solid;
+}
