@@ -1,0 +1,18 @@
+body{
+    font-family: Arial ,'Times New Roman';
+}
+.carousel {
+    width: 100px;
+    height: 50px;
+    margin-bottom: 25%;
+}
+.fundo{
+    background-color: #BF926B;
+    padding: 32px;
+}
+.conteiner-fluid{
+    padding-bottom: 16px;
+    padding-top: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
