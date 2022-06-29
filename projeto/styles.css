@@ -1,0 +1,28 @@
+.carossel{
+    width: 100%;
+}
+.texto{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 32px;
+    height: 300px;
+    padding: 16px;
+}
+p,body{
+    font-family: Arial ,'Times New Roman';
+}
+.foto1{
+    width: 200px;
+    height: 200px;
+    padding: 0;
+    margin-bottom: 16px;
+}
+.fundo{
+    background-color: #bf926b;
+    text-align: center;
+}
+.ali{
+   padding: 60px;
+}
